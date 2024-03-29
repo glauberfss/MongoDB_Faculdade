@@ -1,3 +1,7 @@
+# Para fazer a inserção do documento, utilizei o db.vendas.insertOne():
+# Para atualizar o documento na coleção "vendas" utilizei o db.vendas.update():
+# Para realizar a consulta, utilizei o db.vendas.find():
+
 [{
   "_id": {
     "$oid": "6604aa1b57e2ad95149f990b"
